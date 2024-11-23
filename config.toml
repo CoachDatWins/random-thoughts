@@ -32,7 +32,3 @@ title = "Hugo Blog"
   dateFormat = "Jan 2, 2006"
   homeText = "You just made a Hugo blog from scratch."
 
-  [params]
-  containerMaxWidth = "700px"
-  dateFormat = "Jan 5, 2006"
-  homeText = "You just made a Hugo blog from scratch."
